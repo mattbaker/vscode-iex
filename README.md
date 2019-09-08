@@ -4,6 +4,8 @@ Have you ever made changes to an Elixir module and bounced to IEx to run `r(Foo.
 
 You can run this command by right-clicking on a module and selecting the command, or from the command palette. If no module name is under your cursor, the extension will simply find the first module defined in the currently active editor and recompile that.
 
+![Demo](images/iex.gif)
+
 ## Requirements
 
 For this extension to work, it needs to know where to find your IEx session. You will need to specify an `sname` and `cookie` when you start IEx. 
