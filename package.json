@@ -2,7 +2,10 @@
 	"name": "iex",
 	"displayName": "IEx",
 	"description": "Interact with an IEx session from within your editor",
+	"publisher": "mbakerpdx",
+	"repository": "https://github.com/mattbaker/vscode-iex",
 	"version": "0.0.1",
+	"icon": "images/elixir.png",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
